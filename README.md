@@ -1,5 +1,14 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Sandip</h1><br><h3 align="center">A passionate frontend developer from India</h3><br><br>- 🔭 I’m currently working on Houdini<br><br>- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Deep Learning and DevOps<br><br>-👯 I’m looking to collaborate on A good Mern Project<br><br>- ⚡ Fun fact I think I can suggest you a great Isekai Anime
+<h1 align="center">Hi 👋, I'm Helios</h1><br><h3 align="center">
+
+A digital wizard conjuring up cool things with code. I turn caffeine into creative solutions, building stuff that’s more satisfying than finding a matching sock after laundry. 🧦✨
+
+When I'm not busy arguing with my computer or celebrating when things actually work, you’ll find me lost in thought, imagining my next big idea—or just daydreaming about teleportation.
+
+Currently: trying to fix bugs faster than I create them and embracing the chaotic beauty of the coding life. Let’s build something that makes the internet a little weirder (and better)! 🌐💥
+
+  
+</h3><br><br>- 🔭 I’m currently working on Houdini<br><br>- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Deep Learning and DevOps<br><br>-👯 I’m looking to collaborate on A good Mern Project<br><br>- ⚡ Fun fact I think I can suggest you a great Isekai Anime
 
 
 ## 🌐 Socials:
