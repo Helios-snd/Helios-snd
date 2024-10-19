@@ -1,3 +1,7 @@
+![Description of the GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+
+
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Helios</h1><br><h3 align="center">
 
@@ -8,7 +12,9 @@ When I'm not busy arguing with my computer or celebrating when things actually w
 Currently: trying to fix bugs faster than I create them and embracing the chaotic beauty of the coding life. Let’s build something that makes the internet a little weirder (and better)! 🌐💥
 
   
-</h3><br><br>- 🔭 I’m currently working on Houdini<br><br>- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Deep Learning and DevOps<br><br>-👯 I’m looking to collaborate on A good Mern Project<br><br>- ⚡ Fun fact I think I can suggest you a great Isekai Anime
+</h3><br><br>- 🔭 I’m currently working on Houdini<br><br>- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Deep Learning and DevOps<br><br>-👯 I’m looking to collaborate on A good Mern Project<br><br>- ⚡ Fun fact I think I can suggest you a great Isekai Anime<br><br>
+
+![Description of the GIF](https://private-user-images.githubusercontent.com/74038190/371756376-208fc571-7ef0-4214-8995-d2c9de519ea4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkzNDYxMzcsIm5iZiI6MTcyOTM0NTgzNywicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzYtMjA4ZmM1NzEtN2VmMC00MjE0LTg5OTUtZDJjOWRlNTE5ZWE0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE5VDEzNTAzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmNjEwMWRkNDk0YTIxMDQyY2Y5NTE4YWM1ZjUyZmY2YWY3MmRjMGQ5MTljYjFiYmQ5MTVkY2E3OTVkYjc2MTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KQ16I-cqayw8YJRSqg2Wf5eNkU6O-bsI7WDlQM4wAjM)
 
 
 ## 🌐 Socials:
